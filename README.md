@@ -9,5 +9,7 @@ Clear button to reset the input
 
 # Technologies Used
 React: JavaScript library for building user interfaces.
+
 CSS: Styling the calculator components.
+
 JavaScript: Handling calculations and application logic.
